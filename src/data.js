@@ -25,7 +25,7 @@ export const projects = [
   },
   {
     title: "MeterSpot",
-    subtitle: "C# Website",
+    subtitle: "C# Website for parking meter app",
     description:
       "C# company/idea website",
     image: "./project-4.png",
